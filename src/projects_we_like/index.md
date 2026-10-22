@@ -6,11 +6,12 @@
 
 ## Local Communities
 
-* New Public
-* Blacksky Algorithms
-* Bonfire
-* Newsmast
 * Local Publishers
+* Community Forum Hosting Tech
+  * New Public
+  * Blacksky Algorithms
+  * Bonfire
+  * Newsmast
 
 ## Self-Publishing
 
@@ -18,12 +19,18 @@
 * Neocities
 * Distributed Press
 * AT Protocol
-  * 
+  * [Standard.site](https://standard.site/)
+  * [Leaflet](https://leaflet.pub/home)
+  * [pckt](https://pckt.blog/)
+  * [Offprint](https://offprint.app/)
+* Open Source Static Websites and Blogs
+  * Headless CMS
+  * Markdown editors
 
 ## Social Networking
 
-* AT Protocol
-* Mastodon / Open Social Web
+* AT Protocol / Bluesky
+* Mastodon / ActivityPub / Open Social Web
 
 ## Research Tools
 
@@ -38,28 +45,3 @@
 
 * Ecosyste.ms
 * Open Collective
-
-## Tech
-
-* Automerge / Ink and Switch
-* Iroh
-* WebRTC
-* Passkeys
-
-## Guerilla Cloud
-
-* Co-op Cloud
-* Cloudron
-
-## Old projects
-
-* IPFS
-* Dat
-* Sandstorm
-
-## Upcoming / Things to Research
-
-* Seed Hypermedia
-* Web Tiles
-* Tonk
-* Unternet

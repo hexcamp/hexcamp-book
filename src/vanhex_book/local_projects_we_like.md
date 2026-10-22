@@ -6,7 +6,7 @@
 * Internet Archive Vancouver
 * Vancouver Open Data
 * [MountainMath](https://mountainmath.ca/)
-* [Paul Norman](https://www.paulnorman.ca/)
+* [Paul Norman](https://www.paulnorman.ca/) - developer on OpenStreetMap
 
 ## Journalism
 
@@ -16,6 +16,10 @@
 ### Journalism Tech
 
 * [Indiegraf](https://indiegraf.com/)
+
+## Self-Publishing
+
+* [@reiver](https://reiver.link/) - developer on [BlackSky](https://blackskyweb.xyz/)
 
 ## Guerilla Cloud
 
