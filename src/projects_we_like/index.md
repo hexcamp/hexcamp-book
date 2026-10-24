@@ -17,15 +17,14 @@
 
 * IndieWeb
 * Neocities
-* Distributed Press
+* Open Source Static Websites and Blogs
+  * Headless CMS
+  * Markdown editors
 * AT Protocol
   * [Standard.site](https://standard.site/)
   * [Leaflet](https://leaflet.pub/home)
   * [pckt](https://pckt.blog/)
   * [Offprint](https://offprint.app/)
-* Open Source Static Websites and Blogs
-  * Headless CMS
-  * Markdown editors
 
 ## Social Networking
 
@@ -45,3 +44,8 @@
 
 * Ecosyste.ms
 * Open Collective
+
+## Advocacy
+
+* [Electronic Frontier Foundation](https://www.eff.org/)
+* [Project Censored](https://www.projectcensored.org/)

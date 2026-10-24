@@ -49,6 +49,21 @@
 * [Jazz](https://jazz.tools/)
 * [Fireproof](https://fireproof.storage/)
 
+## Self-Publishing
+
+* Distributed Press
+
+## Journalism
+
+* [Knight Lab](https://knightlab.northwestern.edu/)
+
+## Research Tools
+
+### Annotations
+
+* [Hypothes.is](https://web.hypothes.is/)
+* [Margin.at](https://margin.at/)
+
 ## Older projects
 
 * IPFS
