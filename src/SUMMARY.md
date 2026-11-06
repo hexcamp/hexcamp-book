@@ -21,6 +21,7 @@
   - [Foundations We Like](./projects_we_like/foundations_we_like.md)
 - [Mad Science](./mad_science/index.md)
   - [Mad Science Projects We Like](./mad_science/mad_science_projects_we_like.md)
+- [Ideas](./ideas/index.md)
 
 ---
 

@@ -6,6 +6,7 @@
   * [VanHex](https://vanhex.ca/)
   * [VicHex search](https://6kgruqaeaaaa.vichex.ca/)
   * [VanHex Jupyter](https://6kg6rweynwea.vanhex.ca/)
+  * [VanHex News](https://6kg6rqiaaaaa.vanhex.ca/)
 
 * Check Grafana
 
