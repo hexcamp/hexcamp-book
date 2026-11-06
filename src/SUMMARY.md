@@ -4,6 +4,7 @@
 - [Explainers](./explainers/index.md)
 - [Technical Overview](./technical_overview/index.md)
 - [Operators Guide](./operators_guide/index.md)
+  - [Daily Checklist](./operators_guide/daily_checklist.md) 
 - [Use Cases](./use_cases/index.md)
   - [Journalism](./use_cases/journalism.md)
   - [Archiving](./use_cases/archiving.md)
