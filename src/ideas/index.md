@@ -116,3 +116,8 @@ Not in any particular order.
 * Munich
 * Austin
 * Philadelphia
+
+### Privacy
+
+* use EFF Privacy Badger and remove CDN links from mkdocs generated sites
+* replace Graze.Social embed that has Google links
