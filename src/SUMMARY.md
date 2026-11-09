@@ -19,11 +19,36 @@
 - [Business and Social Enterprise Opportunities](./opportunities/index.md)
 - [Projects We Like](./projects_we_like/index.md)
   - [Foundations We Like](./projects_we_like/foundations_we_like.md)
+  - [Upcoming Conferences](./projects_we_like/upcoming_conferences.md)
 - [Mad Science](./mad_science/index.md)
   - [Mad Science Projects We Like](./mad_science/mad_science_projects_we_like.md)
 - [Ideas](./ideas/index.md)
 
 ---
 
-- [VanHex](./vanhex_book/index.md)
-  - [Local Projects We Like](./vanhex_book/local_projects_we_like.md)
+- [VanHex](./communities/vanhex_book/index.md)
+  - [Local Projects We Like](./communities/vanhex_book/local_projects_we_like.md)
+
+---
+
+- [CDMXHex](./communities/cdmxhex_book/index.md)
+
+---
+
+- [VicHex](./communities/vichex_book/index.md)
+
+---
+
+- [IslandHex](./communities/islandhex_book/index.md)
+
+---
+
+- [InteriorHex](./communities/interiorhex_book/index.md)
+
+---
+
+- [Toronto PeerHex](./communities/peerhex_yyz/index.md)
+
+---
+
+- [Montréal PeerHex](./communities/peerhex_yul/index.md)
