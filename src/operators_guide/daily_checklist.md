@@ -24,6 +24,7 @@
   * [https://6kgvhnw3nw3a.seahex.org/](https://6kgvhnw3nw3a.seahex.org/)
   * [HackMD](https://hackmd.io/jyIv93WeRjKAOJh4gGY1sg)
   * [GitHub Actions](https://github.com/hexcamp/hackmd-notes/actions)
+  * [Debugging Publishing Pipeline](/operators_guide/kubernetes_tasks/debugging_publishing_pipeline.html)
 
 * Check backups
 

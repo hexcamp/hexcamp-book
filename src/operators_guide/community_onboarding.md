@@ -44,6 +44,10 @@ Template:
 * Prototype: [Photos Around Victoria](https://2kgrv5ga2i.vichex.ca/)
 * [GitHub: vichex-openstreetmap-tiles](https://github.com/hexcamp/vichex-openstreetmap-tiles)
 
+### ArgoCD
+
+* Setup per-community ArgoCD instances
+
 ### Archiving
 
 ### Search
