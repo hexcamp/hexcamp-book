@@ -2,6 +2,16 @@
 
 ## Core Requirements
 
+### Footprint, reservations and allocations
+
+Make a git repo to store data files for recording the
+community "footprint" (allocated hexagons on the map), plus
+reserved blocks of hexagons and allocations to specific use cases.
+
+Example:
+
+* GitHub: [hexcamp/hexcamp-community-vanhex](https://github.com/hexcamp/hexcamp-community-vanhex)
+
 ### Landing page
 
 Template:
@@ -11,7 +21,9 @@ Template:
 
 ### Welcome page
 
-eg. [VanHex Welcome Page](https://6kg6rsaaaaaa.vanhex.ca/)
+Example:
+
+* [VanHex Welcome Page](https://6kg6rsaaaaaa.vanhex.ca/)
 
 ### Cities and Neighbourhoods
 

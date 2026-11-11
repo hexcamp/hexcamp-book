@@ -64,6 +64,11 @@
 * [Hypothes.is](https://web.hypothes.is/)
 * [Margin.at](https://margin.at/)
 
+## OpenStreetMap / Geo
+
+* [StreetComplete](https://streetcomplete.app/)
+* [Gogomi](https://gogomi.app/) ([Kevin de Youngster](https://kevindeyoungster.com/))
+
 ## Older projects
 
 * IPFS

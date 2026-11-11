@@ -22,6 +22,13 @@ Not in any particular order.
 
 * Improve base map
 
+## Community database
+
+* Store community footprints
+* Hierarchy of communities and sub-communities
+* Hexagon ID to community lookup
+* API
+
 ## Publishing Improvments
 
 * Ability to watch progress of publishing pipeline
@@ -121,3 +128,13 @@ Not in any particular order.
 
 * use EFF Privacy Badger and remove CDN links from mkdocs generated sites
 * replace Graze.Social embed that has Google links
+
+### Bring-Your-Own-Domain-Name
+
+For Neocities-style self-publishing, many people won't want to use the Hexagon ID DNS names, and would prefer to have a human-friendly name instead.
+
+We could build a system where people could bring their own domain names. Also, it might be possible to share domain names and have crowd funding mechanisms in place to pay for the annual domain name fees.
+
+For example, we could start with yvr.whims.io as an option for VanHex (already in use for the AT Proto PDS), and people could have a website name such as my-web-site.yvr.whims.io. This would be in addition to having a hexagon-id style name such as 6kg6rvgjqguq.vanhex.ca.
+
+
