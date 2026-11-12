@@ -81,3 +81,7 @@ Template:
 ### Governance
 
 ### Identity
+
+### Endowment Fund
+
+### Jurisdiction-dependent legal status

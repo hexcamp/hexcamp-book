@@ -9,6 +9,7 @@
   - [Kubernetes Tasks](./operators_guide/kubernetes_tasks/index.md)
     - [Updating kubectl Certificates](./operators_guide/kubernetes_tasks/updating_kubectl.md)
     - [Debugging Publishing Pipeline](./operators_guide/kubernetes_tasks/debugging_publishing_pipeline.md)
+  - [IPFS](./operators_guide/ipfs/index.md)
 - [Use Cases](./use_cases/index.md)
   - [Journalism](./use_cases/journalism.md)
   - [Archiving](./use_cases/archiving.md)
