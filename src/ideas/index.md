@@ -82,7 +82,7 @@ Not in any particular order.
 
 * Figure out how to publish static snapshots of the Grafana charts for public use
 
-## Logging
+## Logging and Observability
 
 * Investigate ways of exposing and saving logs from within Kubernetes
 * Possibly OpenTelemetry too
@@ -137,4 +137,30 @@ We could build a system where people could bring their own domain names. Also, i
 
 For example, we could start with yvr.whims.io as an option for VanHex (already in use for the AT Proto PDS), and people could have a website name such as my-web-site.yvr.whims.io. This would be in addition to having a hexagon-id style name such as 6kg6rvgjqguq.vanhex.ca.
 
+# Search
 
+* make Stract search engine backends persist data to disk so that it can "scale to zero" using Knative
+
+# Jupyter Notebooks
+
+* make it so that client-side hosted notebooks can publish
+
+# Contact Manager
+
+* investigate how to use private data to maintain lists of people (possibly using ATProto)
+
+# Identity
+
+* investigate how to make client-side wallets that sync
+* unlock using Passkeys
+* integrate with secrets management (OpenBao?)
+
+# Endowments
+
+* look at using Ethereum and StableCoins to setup small endowments that can be funded to save up for things like domain name fees and cloud hosting expenses per community
+* text-based accounting
+* possibly use OpenCollective for larger communities
+
+# Discovery
+
+* service discovery to find publishing endpoints
