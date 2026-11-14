@@ -49,3 +49,8 @@
 
 * [Electronic Frontier Foundation](https://www.eff.org/)
 * [Project Censored](https://www.projectcensored.org/)
+
+# Tech Zines
+
+* [Julia Evans - Wizard Zines](https://wizardzines.com/)
+* [Lin Clark - Code Cartoons](https://www.code-cartoons.com/)

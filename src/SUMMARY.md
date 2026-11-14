@@ -21,6 +21,7 @@
   - [Collaborative Research Tools](./use_cases/collaborative_research_tools.md)
   - [Guerilla Cloud](./use_cases/guerilla_cloud.md)
 - [Governance](./governance/index.md)
+  - [Global Consensus](./governance/global_consensus.md)
 - [Business and Social Enterprise Opportunities](./opportunities/index.md)
 - [Projects We Like](./projects_we_like/index.md)
   - [Foundations We Like](./projects_we_like/foundations_we_like.md)
