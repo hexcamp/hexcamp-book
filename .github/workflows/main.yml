@@ -28,7 +28,7 @@ jobs:
       - run: mdbook build
 
       - name: List dirs
-        run: ls -l site/*
+        run: ls -l book/*
 
 #      - uses: ipfs/ipfs-deploy-action@v3.0.0
 #        name: Deploy to IPFS Cluster
