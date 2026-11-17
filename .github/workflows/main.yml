@@ -25,7 +25,7 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
 
-      - run: mdbook build
+      - run: mdbook build --dest-dir ./book/6kg6ryaaaaaa-hexcamp-book
 
       - name: List dirs
         run: ls -l book/*
