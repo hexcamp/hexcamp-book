@@ -25,10 +25,12 @@ jobs:
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v2
 
-      - run: mdbook --dest-dir ./book/6kg6ryaaaaaa-hexcamp-book build
+      - run: rm -rf ./book
+
+      - run: mdbook build -d ./book/6kg6ryaaaaaa-hexcamp-book
 
       - name: List dirs
-        run: ls -l book/*
+        run: ls -ld book/*
 
 #      - uses: ipfs/ipfs-deploy-action@v3.0.0
 #        name: Deploy to IPFS Cluster
