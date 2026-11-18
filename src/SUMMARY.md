@@ -10,6 +10,7 @@
     - [Updating kubectl Certificates](./operators_guide/kubernetes_tasks/updating_kubectl.md)
     - [Debugging Publishing Pipeline](./operators_guide/kubernetes_tasks/debugging_publishing_pipeline.md)
     - [Renewing Kubernetes Certificates on DNS Servers](./operators_guide/kubernetes_tasks/renewing_k8s_certs.md)
+    - [Renewing Contour Certifiecates on DNS Servers](./operators_guide/kubernetes_tasks/renewing_contour_certs.md)
   - [IPFS](./operators_guide/ipfs/index.md)
   - [Cloud-Based Infra](./operators_guide/cloud_based_infra/index.md)
 - [Use Cases](./use_cases/index.md)
