@@ -164,3 +164,8 @@ For example, we could start with yvr.whims.io as an option for VanHex (already i
 # Discovery
 
 * service discovery to find publishing endpoints
+
+# Storytelling
+
+* ability to use hexagon content on maps in stories similar to [ArcGIS StoryMaps](https://storymaps.arcgis.com/) (also [Other tools to create StoryMaps](https://guides.temple.edu/c.php?g=373611&p=10698159))
+* [StoryMapJS](https://storymap.knightlab.com/)

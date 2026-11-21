@@ -1,1 +1,0 @@
-# Local Projects We Like

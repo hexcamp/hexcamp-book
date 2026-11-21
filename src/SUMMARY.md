@@ -40,6 +40,7 @@
 
 - [VanHex](./communities/vanhex_book/index.md)
   - [Local Projects We Like](./communities/vanhex_book/local_projects_we_like.md)
+  - [VanHex Ideas](./communities/vanhex_book/ideas.md)
 
 ---
 
