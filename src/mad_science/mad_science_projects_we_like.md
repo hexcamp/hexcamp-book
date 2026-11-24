@@ -73,6 +73,16 @@
 * [StreetComplete](https://streetcomplete.app/)
 * [Gogomi](https://gogomi.app/) ([Kevin de Youngster](https://kevindeyoungster.com/))
 
+## Privacy
+
+* [Delta Chat](https://delta.chat/en/)
+
+### Sandboxing
+
+* [Sandstorm](https://sandstorm.org/)
+* [Delta Chat](https://delta.chat/en/)
+* [Web Tiles](https://berjon.com/web-tiles/)
+
 ## Older projects
 
 * IPFS
