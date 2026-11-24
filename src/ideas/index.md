@@ -173,3 +173,7 @@ For example, we could start with yvr.whims.io as an option for VanHex (already i
 # Generate OSM tiles
 
 * we might be able to generate our own [Shortbread vector tiles](https://shortbread-tiles.org/) using the [spirit](https://github.com/pnorman/spirit) tool from Paul Norman.
+
+# OSM + WikiData examples
+
+* Can we adapt the [OSM-Wikidata Map Framework](https://wiki.openstreetmap.org/wiki/OSM-Wikidata_Map_Framework) to work with data stored in Hex.Camp?

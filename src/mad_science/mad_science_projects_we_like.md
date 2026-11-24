@@ -43,6 +43,10 @@
 * [Loro](https://www.loro.dev/)
 * [Y.js](https://yjs.dev/)
 
+## Local First
+
+* [lofi.so](https://lofi.so/)
+
 ## Sync
 
 * [ElectricSQL](https://electric.ax/sync/)
@@ -82,3 +86,8 @@
 * Web Tiles
 * Tonk
 * Unternet
+
+## Mapping
+
+* [Overture Foundation](https://overturemaps.org/)
+* [PMTiles](https://docs.protomaps.com/pmtiles/) ([PMTiles Viewer](https://pmtiles.io/))
